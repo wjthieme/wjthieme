@@ -1,3 +1,3 @@
 - 👋🏼 Hi, I’m @wjthieme
-- 👀 I'm a Software Engineer at Sogeti Nederland B.V.
+- 👀 I'm a Software Engineer at Katch
 - 📫 Feel free to send me a message on [LinkedIn](https://linkedin.com/in/wjthieme)!
